@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Studio",
+  "description": "An AI-powered tool to generate series of professional studio product photos from uploaded images. Configure various styles, descriptions, and sizes, then save your settings for future use.",
+  "requestFramePermissions": []
+}
